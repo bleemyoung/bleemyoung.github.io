@@ -1,4 +1,4 @@
-# learn-echarts
+# learn-typescript
 > here is where i learn typescript
 
 ## 内容
