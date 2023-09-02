@@ -40,12 +40,15 @@ GET https://cdn.jsdelivr.net/npm/docsify@4 net::ERR\_TIMED\_OUT
 
 后续在ping的时候发现这仨其实差不多
 
+### 项目实现侧边导航
+
 ### 项目部署
 
 
 ## 参考
 具体尝试参考文章：
 
-[Docsify使用指南（打造最快捷、最轻量级的个人&amp;团队文档） - 追逐时光者 - 博客园 (cnblogs.com)](https://www.cnblogs.com/Can-daydayup/p/15413267.html)
-
-[Wiki系列（二）：docsify部署及配置 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/141540641)
+* [docsify中文文档 (jingping-ye.github.io)](https://jingping-ye.github.io/docsify-docs-zh/#/)
+* [The greatest guide in the world (liqingbo.cn)](https://www.liqingbo.cn/docs/docsify/#/preface)
+* [Docsify使用指南（打造最快捷、最轻量级的个人&amp;团队文档） - 追逐时光者 - 博客园 (cnblogs.com)](https://www.cnblogs.com/Can-daydayup/p/15413267.html)
+* [Wiki系列（二）：docsify部署及配置 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/141540641)
